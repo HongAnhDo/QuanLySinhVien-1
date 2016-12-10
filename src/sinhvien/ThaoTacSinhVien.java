@@ -3,11 +3,7 @@ package sinhvien;
 import chung.IThaoTac;
 import java.util.ArrayList;
 
-/**
- * @author Hà Viết Tráng - HAVIETTRANG
- * @date Oct 30, 2016 9:00:08 PM
- * @website haviettrang.blogspot.com
- */
+
 public class ThaoTacSinhVien implements IThaoTac {
 
     @Override

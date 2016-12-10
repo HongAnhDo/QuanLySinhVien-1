@@ -4,12 +4,7 @@ import chung.User;
 import java.util.ArrayList;
 import monhoc.MonHoc;
 
-/**
- * @author Hà Viết Tráng - HAVIETTRANG
- * @date Nov 4, 2016 7:10:20 PM
- * @website haviettrang.blogspot.com
- * @Notes View my notes at haviettrang.postach.io
- */
+
 public class GiaoVien extends User {
 
     private int soDienThoai;

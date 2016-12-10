@@ -1,10 +1,5 @@
 package bangdiem;
 
-/**
- * @author Hà Viết Tráng - HAVIETTRANG
- * @date Oct 31, 2016 10:21:33 AM
- * @website haviettrang.blogspot.com View my notes at haviettrang.postach.io
- */
 public class BangDiem {
 
     private String maSv;

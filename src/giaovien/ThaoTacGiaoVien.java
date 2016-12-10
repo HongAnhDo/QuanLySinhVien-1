@@ -3,12 +3,7 @@ package giaovien;
 import chung.IThaoTac;
 import java.util.ArrayList;
 
-/**
- * @author Hà Viết Tráng - HAVIETTRANG
- * @date Nov 4, 2016 7:21:12 PM
- * @website haviettrang.blogspot.com
- * @Notes View my notes at haviettrang.postach.io
- */
+
 public class ThaoTacGiaoVien implements IThaoTac {
 
     @Override

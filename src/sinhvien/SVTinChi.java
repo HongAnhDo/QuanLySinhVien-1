@@ -1,10 +1,6 @@
 package sinhvien;
 
-/**
- * @author Hà Viết Tráng - HAVIETTRANG
- * @date Oct 28, 2016 1:24:03 PM
- * @website haviettrang.blogspot.com
- */
+
 public class SVTinChi extends SV {
 
     private int tinChiTichLuy;
